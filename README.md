@@ -227,6 +227,6 @@ GPL-3.0 License
 
 ---
 
-# Star History
+# Star
 
 如果这个项目帮到了你，欢迎给个 Star ⭐，爱你
