@@ -9,6 +9,8 @@ BeamMPTools By Ace06
 
 支持：
 
+- 打开BeamMP
+- 打开BeamNG
 - BeamNG.drive 路径检测
 - BeamMP 安装检测
 - BeamMP Resources 自动识别
@@ -93,7 +95,8 @@ BeamMP/Resources
 
 # 截图
 
-<img width="662" height="395" alt="image" src="https://github.com/user-attachments/assets/2c7cc05c-d5d6-4798-8e8b-b4e57b75848a" />
+<img width="662" height="519" alt="image" src="https://github.com/user-attachments/assets/42b62742-4e4a-44f5-a6cb-4604305a8795" />
+
 
 
 ---
